@@ -1,4 +1,4 @@
-# Nadeem-s_Data_Analyst_Portfolio
+# Portfolio Projects
 
 1. Data Analysis Internship (@Psyliq)
   - [SQL - Diabetes Prediction](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction)
