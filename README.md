@@ -7,5 +7,5 @@
   - Excel - Employee Data Analysis
 
 2. Python Projects
-  - Project 1 - Hotel Bookings
+  - [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
   - Project 2 - 
