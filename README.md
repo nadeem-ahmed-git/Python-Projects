@@ -1,11 +1,15 @@
 # Nadeem-s_Data_Analyst_Portfolio
 
-## TABLE OF CONTENTS
-
 1. Data Analysis Internship (@Psyliq)
-  - SQL - Diabetes Prediction
-  - Excel - Employee Data Analysis
+  - [SQL - Diabetes Prediction](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction)
+  - [Excel - Employee Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis)
 
 2. Python Projects
   - [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
-  - Project 2 - 
+  - [Project 2 - Amazon Products Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/Amazon%20Products%20Analysis.ipynb)
+  - [Project 3 - Pharmaceutical Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/Pharmaceutical%20Data%20Analysis.ipynb)
+  - [Project 4 - Uber Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/Uber%20Data%20Analysis.ipynb)
+  - [Project 5 - Paytm Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/Paytm%20Data%20Analysis.ipynb)
+  - [Project 6 - Zomato Bangalore Restaurants Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%206%20-%20Zomato%20Bangalore%20Restaurants%20Data%20Analysis/Zomato%20Data%20Analysis.ipynb)
+  - [Project 7 - Netflix Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20Dataset%20Analysis.ipynb)
+  - [Project 8 - Cricket World Cup Batting 2023](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/Cricket%20WC%20Batting%202023.ipynb)
