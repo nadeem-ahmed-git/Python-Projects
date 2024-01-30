@@ -2,6 +2,8 @@
 
 ## 1. **Data Analysis Internship (@Psyliq)**
   - [SQL - Diabetes Prediction](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction)
+  ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction/sql.png?raw=true) 
+    
   - [Excel - Employee Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis)
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis/HR%20analytics%20dashboard.png?raw=true)
 
