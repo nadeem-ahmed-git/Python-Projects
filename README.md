@@ -24,6 +24,9 @@
         made in August.
 
   - [Project 2 - Amazon Products Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/Amazon%20Products%20Analysis.ipynb)
+
+    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/top%20manufacturers.png?raw=true)
+    
   - [Project 3 - Pharmaceutical Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/Pharmaceutical%20Data%20Analysis.ipynb)
   - [Project 4 - Uber Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/Uber%20Data%20Analysis.ipynb)
   - [Project 5 - Paytm Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/Paytm%20Data%20Analysis.ipynb)
