@@ -44,4 +44,6 @@
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%206%20-%20Zomato%20Bangalore%20Restaurants%20Data%20Analysis/delivery%20rating.png?raw=true)
     
   - [Project 7 - Netflix Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20Dataset%20Analysis.ipynb)
+
+    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20top%20countries.png?raw=true)
   - [Project 8 - Cricket World Cup Batting 2023](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/Cricket%20WC%20Batting%202023.ipynb)
