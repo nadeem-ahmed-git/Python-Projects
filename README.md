@@ -5,19 +5,15 @@
   - [Excel - Employee Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis)
 
 ## 2. **Python Projects**
-  ### - [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
+      - [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
       -  Hotel Booking Analysis Project
-
       - Project Overview
         In this project, I analyzed a dataset from a hotel to understand customer behavior and trends, and to improve the hotel's business strategy.
-
       -  Data Collection
         The dataset was obtained from Kaggle, which included information about hotel bookings, customer types, their stay duration, special requests, and more.
-
-       - Data Cleaning
+      - Data Cleaning
         I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
-
-       - Exploratory Data Analysis
+      - Exploratory Data Analysis
         I performed an exploratory data analysis using Matplotlib and Seaborn. I found that the majority of customers are from Western Europe and most bookings are made in August.
 
   - [Project 2 - Amazon Products Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/Amazon%20Products%20Analysis.ipynb)
