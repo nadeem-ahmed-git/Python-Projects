@@ -41,6 +41,7 @@
         - The ratings of the Top 10 Manufacturers is usually between 4 and 5.
         - Amazon has about 5000 reviews the rest of the manufacturers' products have less than 1000 reviews.
         - Majority of popular product prices are below ₹3000.
+
           and more.
           
   - [Project 3 - Pharmaceutical Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/Pharmaceutical%20Data%20Analysis.ipynb)
