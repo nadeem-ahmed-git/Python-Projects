@@ -112,7 +112,8 @@
     - **Findings**:
          1. There is a gradual increase in the Gross Merchandise Value over every quarter.
          2. A correlation between merchant transactions Vs merchant loan volume of 0.93 indicates a very strong positive linear relationship between two variables. It suggests that when the                   transaction volume for a merchant increases, the loan volume for the merchant also tends to increase, and vice versa.
-         3. Trend: The red line, merchant loan volume increases from 01-06-2020 to 01-12-2020, then there is a decline from 01-12-2020 to 01-06-2021. From 01-06-2021 there is consistent increase of           merchant loan volume overall.
+         3. Trend: The red line, merchant loan volume increases from 01-06-2020 to 01-12-2020, then there is a decline from 01-12-2020 to 01-06-2021. From 01-06-2021 there is consistent increase 
+            of merchant loan volume overall.
          4. The Quarter 01-03-2023 generated the highest total revenue.
          5.  quarter 01-09-2022 generated the highest revenue from comsumers.
          and more.
@@ -120,6 +121,22 @@
   - [Project 6 - Zomato Bangalore Restaurants Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%206%20-%20Zomato%20Bangalore%20Restaurants%20Data%20Analysis/Zomato%20Data%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%206%20-%20Zomato%20Bangalore%20Restaurants%20Data%20Analysis/delivery%20rating.png?raw=true)
+
+    - **Project Overview**: In this project, I analysed a dataset of Zomato, an Indian multinational company who has revolutionized the food and dining landscape globally. The objective of this           analysis is to understand the restaurant landscape in Bangalore by examining key factors such as home delivery, seating facilities, ratings, costs, popular cuisines, number of outlets, and         location.
+    - **Data Collection**:
+         The dataset was obtained from Kaggle, which included information about Name, Cuisines, Area, Timing, Contact number, Is home delivery available?	Is takeaway available?
+         Is indoor seating available?	Does it serve only vegetarian food? Restaurant Ratings, Restaurant Reviews etc.
+    - **Data Cleaning**:
+         I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
+    - **Descriptive and Exploratory Data Analysis**:
+         I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
+    - **Findings**:
+         1. 99% of restaurants in Bangalore do food delivery.
+         2. 46.92% of restaurants in Bangalore have seating facility where 53.08% don't.
+         3. Most common rating received by restaurants is 4.0.
+         4. There is a positive correlation of 0.059 of average cost with restaurant rating, but it's very weak. There may seem to be a slight increase of average cost w.r.t ratings but nothing 
+            significant.
+         and more.   
     
   - [Project 7 - Netflix Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20Dataset%20Analysis.ipynb)
 
