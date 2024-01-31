@@ -141,8 +141,46 @@
   - [Project 7 - Netflix Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20Dataset%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%207%20-%20Netflix%20Dataset%20Analysis/Netflix%20top%20countries.png?raw=true)
+
+    - **Project Overview**: In this project, I analysed a dataset of Netflix, an American subscription-based streaming service that allows members to watch TV shows and movies on an internet- 
+       connected device. The objective of this project is to understand the distribution and trends of content on Netflix, including the number of movies vs TV shows, premiere years, countries of 
+       origin, ratings, genres, and contributions by directors.
+    - **Data Collection**:
+         The dataset was obtained from Kaggle, which included information about Type of content whether TV-Show or Movie, title, director, cast, Country of release, date_added,
+         release_year, rating etc.
+    - **Data Cleaning**:
+         I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
+    - **Descriptive and Exploratory Data Analysis**:
+         I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
+    - **Findings**:
+         1. The Number of Movies is quite high as compared to TV Shows.
+         2. The highest number of Movies premiered in 2019 is 1424 and TV Shows in 2020 is 594.
+         3. The highest number of shows are from USA, followed by India.
+         4. Most of the Content in Netflix is rated TV-MA.
+         5. Genre Drama is the highest premiered genre.
+         6. Director Rajiv Chilaka is the most contributed director.
+          and more.
     
   - [Project 8 - Cricket World Cup Batting 2023](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/Cricket%20WC%20Batting%202023.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/highest%20runs.png?raw=true)
+
+    - **Project Overview**: In this project, I analysed a dataset of Netflix, an American subscription-based streaming service that allows members to watch TV shows and movies on an internet- 
+       connected device. The objective of this project is to understand the distribution and trends of content on Netflix, including the number of movies vs TV shows, premiere years, countries of 
+       origin, ratings, genres, and contributions by directors.
+    - **Data Collection**:
+         The dataset was obtained from Kaggle, which included information about Type of content whether TV-Show or Movie, title, director, cast, Country of release, date_added,
+         release_year, rating etc.
+    - **Data Cleaning**:
+         I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
+    - **Descriptive and Exploratory Data Analysis**:
+         I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
+    - **Findings**:
+         1. The Number of Movies is quite high as compared to TV Shows.
+         2. The highest number of Movies premiered in 2019 is 1424 and TV Shows in 2020 is 594.
+         3. The highest number of shows are from USA, followed by India.
+         4. Most of the Content in Netflix is rated TV-MA.
+         5. Genre Drama is the highest premiered genre.
+         6. Director Rajiv Chilaka is the most contributed director.
+          and more.
     
