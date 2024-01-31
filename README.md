@@ -23,13 +23,17 @@
       - **Descriptive and Exploratory Data Analysis**:
         I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
       - **Findings**:
-        We found that for city hotels, high adr leads to higher cancellations and Longer lead time are leading to more cancellations in resort hotels.
+        1. We found that for city hotels, high adr leads to higher cancellations and Longer lead time are leading to more cancellations in resort hotels.
+        2. Portugal has the highest number of cancellations.
+        3. 47% booking from online medium.
+        and more.
 
   - [Project 2 - Amazon Products Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/Amazon%20Products%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/top%20manufacturers.png?raw=true)
 
-      - **Project Overview**: In this project, I analysed a dataset of Amazon products to help any individual to take business decisions by answerings various questions like - Which are the top 10          products with the highest price? Which are the most popular manufacturers? The ratings of the top 10 manufacturers?
+      - **Project Overview**: In this project, I analysed a dataset of Amazon products to help any individuals/businesses  to take business decisions by answerings various questions like - Which 
+         are the top 10 products with the highest price? Which are the most popular manufacturers? The ratings of the top 10 manufacturers? and more.
       - **Data Collection**:
         The dataset was obtained from Kaggle, which included information about name, main category, sub category, actual price, discount price.
       - **Data Cleaning**:
@@ -47,8 +51,8 @@
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/avg%20price%20manufacturers.png?raw=true)
 
-       - **Project Overview**: In this project, I analysed a dataset which contains all possible medicines in the Indian Pharmaceutical Industry to help any compamies to take business decisions by            answerings various questions like - Which manufacturer has the most products? What is the average price of the top manufacturers' products? How many products have been discontinued?
-         What is the range of prices for top manufacturer?
+       - **Project Overview**: In this project, I analysed a dataset which contains all possible medicines in the Indian Pharmaceutical Industry to help any company to take business decisions by            answerings various questions like - Which manufacturer has the most products? What is the average price of the top manufacturers' products? How many products have been discontinued?
+         What is the range of prices for top manufacturer? and more.
        - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about name, price, Is_discontinued, manufacturer_name, type, pack_size_label etc.
        - **Data Cleaning**:
@@ -75,7 +79,8 @@
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/rides%20per%20day.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of world's largest taxi company Uber inc. The objective of this project is to understand Ride Patterns, identify Popular Categories, temporal analysis,
+    - **Project Overview**: In this project, I analysed a dataset of world's largest taxi company Uber inc. The objective of this project is to understand Ride Patterns, identify Popular 
+         Categories, temporal analysis and more.
         user Segmentation and uncover challenges and opportunities.
     - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about start date, end date, category, miles, purpose etc.
