@@ -21,7 +21,9 @@
 
   - [Excel and Power BI - HR Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20%26%20Power%20BI%20-%20HR%20Data%20Analysis)
 
-    In the HR Data Analysis assessment, I tackled a series of HR Data Analytics Assessment Questions. I leveraged Excel and Power BI to execute tasks such as creating pivot tables to summarize the total number of employees in each department, applying conditional formatting, and conducting advanced analysis using charts and pivot tables. This experience enabled me to enhance my Excel and Power BI skills and gain practical experience in data analytics.
+    In the HR Data Analysis assessment, I tackled a series of HR Data Analytics Assessment Questions. I leveraged Excel and Power BI to execute tasks such as creating pivot tables to summarize the 
+    total number of employees in each department, applying conditional formatting, and conducting advanced analysis using charts and pivot tables. This experience enabled me to enhance my Excel 
+    and Power BI skills and gain practical experience in data analytics.
 
   ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20&%20Power%20BI%20-%20HR%20Data%20Analysis/data%20model.png?raw=true)
 
