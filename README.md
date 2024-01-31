@@ -57,15 +57,15 @@
          I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
        - **Findings**:
          1. The Manufacturers' with the most products -
-          - Sun Pharmaceutical Industries Ltd |2986|
+          - Sun Pharmaceutical Industries Ltd - 2986
           - Cipla Ltd - 2467
           - Intas Pharmaceuticals Ltd - 2302
          2. The average price of top manufacturers -
           - Sun Pharmaceutical Industries Ltd - 2986
           - Cipla Ltd - 2467
           - Intas Pharmaceuticals Ltd - 2302
-        3. 7905 i.e 3.11% products have been discontinued.
-        4. The range pf price of top Manufacturers -
+         3. 7905 i.e 3.11% products have been discontinued.
+         4. The range pf price of top Manufacturers -
           - Abbott min - 1.63, max - 53888.0
           - Alkem Laboratories Ltd - min - 2.05, max - 59400.0
           - Cipla Ltd - min - 1.25, max - 119500.0
