@@ -77,13 +77,13 @@
 
     - **Project Overview**: In this project, I analysed a dataset of world's largest taxi company Uber inc. The objective of this project is to understand Ride Patterns, identify Popular Categories, temporal analysis,
         user Segmentation and uncover challenges and opportunities.
-       - **Data Collection**:
+    - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about start date, end date, category, miles, purpose etc.
-       - **Data Cleaning**:
+    - **Data Cleaning**:
          I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
-       - **Descriptive and Exploratory Data Analysis**:
+    - **Descriptive and Exploratory Data Analysis**:
          I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
-       - **Findings**:
+    - **Findings**:
          1. Temporal Patterns:
             - Peak Month: August and December are the peak months
             - Peak Day: Most rides are taken on Fridays, indicating higher usage towards the end of the workweek.
@@ -103,13 +103,13 @@
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/transaction%20vs%20loan.png?raw=true)
 
     - **Project Overview**: In this project, I analysed a dataset of Paytm, a leading financial technology company based in India. The objective of this project is to understand the financial             performance and trends of a business by examining key metrics such as merchandise transactions, loan volumes, revenues, and payment processing fees.
-       - **Data Collection**:
+    - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about Gross Merchandise Value, Merchant Transactions, Total Transaction, Average Monthly Transacting Users, Registered              Merchants, Payment Devices etc
-       - **Data Cleaning**:
+    - **Data Cleaning**:
          I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
-       - **Descriptive and Exploratory Data Analysis**:
+    - **Descriptive and Exploratory Data Analysis**:
          I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
-       - **Findings**:
+    - **Findings**:
          1. There is a gradual increase in the Gross Merchandise Value over every quarter.
          2. A correlation between merchant transactions Vs merchant loan volume of 0.93 indicates a very strong positive linear relationship between two variables. It suggests that when the                   transaction volume for a merchant increases, the loan volume for the merchant also tends to increase, and vice versa.
          3. Trend: The red line, merchant loan volume increases from 01-06-2020 to 01-12-2020, then there is a decline from 01-12-2020 to 01-06-2021. From 01-06-2021 there is consistent increase of           merchant loan volume overall.
