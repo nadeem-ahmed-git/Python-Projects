@@ -74,7 +74,30 @@
   - [Project 4 - Uber Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/Uber%20Data%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/rides%20per%20day.png?raw=true)
-    
+
+    - **Project Overview**: In this project, I analysed a dataset of world's largest taxi company Uber inc. to understand Ride Patterns, identify Popular Categories, temporal analysis,
+        user Segmentation and uncover challenges and opportunities.
+       - **Data Collection**:
+         The dataset was obtained from Kaggle, which included information about start date, end date, category, miles, purpose etc.
+       - **Data Cleaning**:
+         I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
+       - **Descriptive and Exploratory Data Analysis**:
+         I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
+       - **Findings**:
+         1. Temporal Patterns:
+            - Peak Month: August and December are the peak months
+            - Peak Day: Most rides are taken on Fridays, indicating higher usage towards the end of the workweek.
+            - Peak Hour: The busiest time for rides is between 13 and 18 PM, possibly aligning with lunch breaks or midday activities.
+        2. Ride Duration:
+           The majority of ride durations fall within the 0 to 40-minute range, indicating relatively short trips.
+        3. Ride Categories:
+            Business rides significantly outnumber personal rides, highlighting the professional nature of the service.
+        4. Purpose of Rides:
+            The most common purposes for rides are meetings, followed by meal/entertainment, errands/supplies, and customer visits.
+        5. Distance and Duration:
+           Most rides cover distances between 0 and 50 miles, typically taking 0 to 75 minutes.
+         and more.
+
   - [Project 5 - Paytm Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/Paytm%20Data%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/transaction%20vs%20loan.png?raw=true)
