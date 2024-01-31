@@ -14,7 +14,7 @@
     
       ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/monthly%20reservation%20status.png?raw=true)
       - **Project Overview**:
-        In this project, I analyzed a dataset City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is dealing with a number of issues as a result, including fewer revenues and          less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue, and for us to offer               thorough business advice to address this problem..
+        In this project, I analyzed a dataset where City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is dealing with a number of issues as a result, including fewer                 revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue, and for us           to offer thorough business advice to address this problem..
       -  **Data Collection**:
         The dataset was obtained from Kaggle, which included information about hotel bookings, calcellations, average daily rate and more.
       - **Data Cleaning**:
@@ -28,8 +28,21 @@
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/top%20manufacturers.png?raw=true)
 
-    
-    
+      - **Project Overview**: In this project, I analysed a dataset of Amazon products to help any individual to take business decisions by answerings various questions like - Which are the top 10          products with the highest price? Which are the most popular manufacturers? The ratings of the top 10 manufacturers?
+
+      - **Data Collection**:
+        The dataset was obtained from Kaggle, which included information about name, main category, sub category, actual price, discount price.
+      - **Data Cleaning**:
+        I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
+      - **Descriptive and Exploratory Data Analysis**:
+        I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
+      - **Findings**:
+        - The most popular manufacturers on Amazon are : Puma, Amazon, THE etc. 
+        - The ratings of the Top 10 Manufacturers is usually between 4 and 5.
+        - Amazon has about 5000 reviews the rest of the manufacturers' products have less than 1000 reviews.
+        - Majority of popular product prices are below ₹3000.
+          and more.
+          
   - [Project 3 - Pharmaceutical Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/Pharmaceutical%20Data%20Analysis.ipynb)
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/avg%20price%20manufacturers.png?raw=true)
