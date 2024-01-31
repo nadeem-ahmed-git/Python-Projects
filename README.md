@@ -12,21 +12,22 @@
     
   - [Excel - Employee Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis)
     
-    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis/HR%20analytics%20dashboard.png?raw=true)
-
     In the Employee Data Analysis assessment, I was tasked with a series of Employee Data Analytics Assessment Questions. I utilized Excel to perform various tasks such as creating pivot tables to 
     summarize the total number of employees in each department, applying conditional formatting to highlight employees with a “Performance Score” below 3, and performing advanced analysis using 
     charts and pivot tables. I also calculated metrics including headcount, departmental budgets, training costs projections, and profitability. This experience allowed me to enhance my Excel 
     skills and gain hands-on experience in data analytics.
 
+    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis/HR%20analytics%20dashboard.png?raw=true)
+
   - [Excel and Power BI - HR Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20%26%20Power%20BI%20-%20HR%20Data%20Analysis)
 
-    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20&%20Power%20BI%20-%20HR%20Data%20Analysis/data%20model.png?raw=true)
-
-    In the HR Data Analysis assessment, I was tasked with a series of Employee Data Analytics Assessment Questions. I utilized Excel and Power BI to perform various tasks such as creating pivot 
+   In the HR Data Analysis assessment, I was tasked with a series of Employee Data Analytics Assessment Questions. I utilized Excel and Power BI to perform various tasks such as creating pivot 
     tables to summarize the total number of employees in each department, applying conditional formatting to highlight employees with a “Performance Score” below 3, and performing advanced 
     analysis using charts and pivot tables. I also calculated metrics including headcount, departmental budgets, training costs projections, and profitability. This experience allowed me to 
     enhance my Excel and Power BI skills and gain hands-on experience in data analytics.
+
+  ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20&%20Power%20BI%20-%20HR%20Data%20Analysis/data%20model.png?raw=true)
+
 
 ## 2. **Python Projects**
   - ### [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
