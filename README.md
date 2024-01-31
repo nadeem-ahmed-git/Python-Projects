@@ -41,8 +41,7 @@
         - The ratings of the Top 10 Manufacturers is usually between 4 and 5.
         - Amazon has about 5000 reviews the rest of the manufacturers' products have less than 1000 reviews.
         - Majority of popular product prices are below ₹3000.
-
-          and more.
+        and more.
           
   - [Project 3 - Pharmaceutical Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/Pharmaceutical%20Data%20Analysis.ipynb)
 
@@ -70,7 +69,7 @@
           - Abbott min - 1.63, max - 53888.0
           - Alkem Laboratories Ltd - min - 2.05, max - 59400.0
           - Cipla Ltd - min - 1.25, max - 119500.0
-            and more.
+          and more.
     
   - [Project 4 - Uber Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/Uber%20Data%20Analysis.ipynb)
 
