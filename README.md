@@ -56,7 +56,17 @@
        - **Descriptive and Exploratory Data Analysis**:
          I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
        - **Findings**:
-         
+         The Manufacturers' with the most products - |Manufacturers | Product Counts | | --- | --- | |Sun Pharmaceutical Industries Ltd |2986| |Cipla Ltd |2467| |Intas Pharmaceuticals Ltd |2302| |Torrent Pharmaceuticals Ltd |2027| |Alkem Laboratories Ltd |1809| |Abbott |1777| |Zydus Cadila |1768| |Lupin Ltd |1735| |Micro Labs Ltd |1305| |Mankind Pharma Ltd |1297|
+
+The average price of top manufacturers -
+
+| Manufacturers | Average Price | |--- | ---| |Sun Pharmaceutical Industries Ltd |2986| |Cipla Ltd |2467| |Intas Pharmaceuticals Ltd |2302| |Torrent Pharmaceuticals Ltd |2027| |Alkem Laboratories Ltd |1809| |Abbott |1777| |Zydus Cadila |1768| |Lupin Ltd |1735| |Micro Labs Ltd |1305| |Mankind Pharma Ltd |1297|
+
+7905 i.e 3.11% products have been discontinued.
+
+The range pf price of top Manufacturers -
+
+| Manufacturer | Min Price | Max Price | | ---| --- | --- | |Abbott |1.63 |53888.0| |Alkem Laboratories Ltd |2.05 |59400.0| |Cipla Ltd |1.25 |119500.0| |Intas Pharmaceuticals Ltd |2.12 |99000.0| |Lupin Ltd |2.15 |55350.0| |Mankind Pharma Ltd |3.08 |6000.0| |Micro Labs Ltd |1.39 |4299.0| |Sun Pharmaceutical Industries Ltd |1.25 |37000.0| |Torrent Pharmaceuticals Ltd |2.93 |39990.0| |Zydus Cadila |1.68 |99360.0|
     
   - [Project 4 - Uber Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/Uber%20Data%20Analysis.ipynb)
 
