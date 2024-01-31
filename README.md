@@ -165,22 +165,20 @@
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/highest%20runs.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of Netflix, an American subscription-based streaming service that allows members to watch TV shows and movies on an internet- 
-       connected device. The objective of this project is to understand the distribution and trends of content on Netflix, including the number of movies vs TV shows, premiere years, countries of 
-       origin, ratings, genres, and contributions by directors.
+    - **Project Overview**: In this project, I analysed a dataset of The 2023 ICC Men's Cricket World Cup. The objective of this analysis is to understand the performance of cricket players based 
+        on various metrics such as runs, balls faced, 4s, 6s, dismissal types, and playing time. 
     - **Data Collection**:
-         The dataset was obtained from Kaggle, which included information about Type of content whether TV-Show or Movie, title, director, cast, Country of release, date_added,
-         release_year, rating etc.
+         The dataset was obtained from Kaggle, which included information about player name, dismissal, runs, balls, minutes played, 4s, 6s, strike_rate etc.    
     - **Data Cleaning**:
          I preprocessed the data by handling missing values, removing duplicates, and converting data types. I used Pandas for these operations.
     - **Descriptive and Exploratory Data Analysis**:
          I performed descriptive and exploratory data analysis using Matplotlib and Seaborn.
     - **Findings**:
-         1. The Number of Movies is quite high as compared to TV Shows.
-         2. The highest number of Movies premiered in 2019 is 1424 and TV Shows in 2020 is 594.
-         3. The highest number of shows are from USA, followed by India.
-         4. Most of the Content in Netflix is rated TV-MA.
-         5. Genre Drama is the highest premiered genre.
-         6. Director Rajiv Chilaka is the most contributed director.
-          and more.
+         1. Glenn Maxwell has scored the highest number of runs, around 200. On the other hand, Mohammad Rizwan has scored around 130 runs.
+         2. The ranking of the players of most 4s and 6s is exactly the same as the ranking of the players with highest runs.
+         3. A correlation of 0.93 between runs and balls in cricket indicates a strong positive relationship. This means that as the number of balls faced by a player increases, the number of runs 
+            scored also tends to increase.
+         4. The graph shows the distribution of average runs across different types of dismissals. The ‘c’ dismissal type i.e Caught Out has the highest average runs, while the ‘st’ dismissal type 
+            i.e Stumped has the lowest.
+         and more.   
     
