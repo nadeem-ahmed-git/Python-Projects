@@ -48,8 +48,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%202%20-%20Amazon%20Products%20Analysis/top%20manufacturers.png?raw=true)
 
-      - **Project Overview**: In this project, I analysed a dataset of Amazon products to help any individuals/businesses  to take business decisions by answerings various questions like - Which 
-         are the top 10 products with the highest price? Which are the most popular manufacturers? The ratings of the top 10 manufacturers? and more.
+      - **Project Overview**: This analysis aims to explore product pricing, identify leading manufacturers, assess customer satisfaction, and understand category preferences. We’ll examine pricing strategies, the impact of discounts on customer engagement, and discern customer preferences in specific segments. The insights will guide decision-making, optimize product offerings, and enhance customer satisfaction.
       - **Data Collection**:
         The dataset was obtained from Kaggle, which included information about name, main category, sub category, actual price, discount price.
       - **Data Cleaning**:
@@ -67,7 +66,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%203%20-%20Pharmaceutical%20Data%20Analysis/avg%20price%20manufacturers.png?raw=true)
 
-       - **Project Overview**: In this project, I analysed a dataset which contains all possible medicines in the Indian Pharmaceutical Industry to help any company to take business decisions by            answerings various questions like - Which manufacturer has the most products? What is the average price of the top manufacturers' products? How many products have been discontinued?
+       - **Project Overview**: The objective of this analysis is to understand product distribution across manufacturers, pricing strategies, product status, and the relationship between pack size and price. We aim to identify prevalent compositions in products, examine pack size distribution, and investigate the prevalence of discontinued products among manufacturers.
          What is the range of prices for top manufacturer? and more.
        - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about name, price, Is_discontinued, manufacturer_name, type, pack_size_label etc.
@@ -95,9 +94,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%204%20-%20Uber%20Data%20Analysis/rides%20per%20day.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of world's largest taxi company Uber inc. The objective of this project is to understand Ride Patterns, identify Popular 
-         Categories, temporal analysis and more.
-        user Segmentation and uncover challenges and opportunities.
+    - **Project Overview**: The objective of this analysis is to understand ride patterns, identify popular ride categories, analyze temporal variations in ride-sharing, segment users, and uncover challenges and opportunities. This will provide insights into ride duration, frequency, user behavior, and potential areas for improvement in the ride-sharing service.
     - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about start date, end date, category, miles, purpose etc.
     - **Data Cleaning**:
@@ -123,7 +120,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%205%20-%20Paytm%20Data%20Analysis/transaction%20vs%20loan.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of Paytm, a leading financial technology company based in India. The objective of this project is to understand the financial             performance and trends of a business by examining key metrics such as merchandise transactions, loan volumes, revenues, and payment processing fees.
+    - **Project Overview**:The objective of this analysis is to understand the distribution, trends, correlations, and outliers in key financial metrics such as merchandise transactions, loan volumes, processing fees, and revenues. This will provide insights into the financial performance and operational efficiency of the business, guiding strategic decision-making and future planning.
     - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about Gross Merchandise Value, Merchant Transactions, Total Transaction, Average Monthly Transacting Users, Registered              Merchants, Payment Devices etc
     - **Data Cleaning**:
@@ -143,7 +140,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%206%20-%20Zomato%20Bangalore%20Restaurants%20Data%20Analysis/delivery%20rating.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of Zomato, an Indian multinational company who has revolutionized the food and dining landscape globally. The objective of this           analysis is to understand the restaurant landscape in Bangalore by examining key factors such as home delivery, seating facilities, ratings, costs, popular cuisines, number of outlets, and         location.
+    - **Project Overview**: This analysis aims to explore the restaurant landscape in Bangalore, focusing on home delivery services, indoor seating availability, delivery ratings, cost-ratings correlation, popular cuisines, restaurant chains, cost of most reviewed restaurants, and location-based ratings. The objective is to derive insights that can guide restaurant owners and customers in making informed decisions.
     - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about Name, Cuisines, Area, Timing, Contact number, Is home delivery available?	Is takeaway available?
          Is indoor seating available?	Does it serve only vegetarian food? Restaurant Ratings, Restaurant Reviews etc.
@@ -186,8 +183,7 @@ on the Distance from Home column. This experience enabled me to enhance my Excel
 
     ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%208%20-%20Cricket%20WC%20Batting%202023/highest%20runs.png?raw=true)
 
-    - **Project Overview**: In this project, I analysed a dataset of The 2023 ICC Men's Cricket World Cup. The objective of this analysis is to understand the performance of cricket players based 
-        on various metrics such as runs, balls faced, 4s, 6s, dismissal types, and playing time. 
+    - **Project Overview**: This analysis aims to delve into cricket statistics, focusing on player performance in terms of runs, boundaries, balls faced, and playing time. We'll identify top scorers, examine run distribution, investigate correlations between runs and balls, and explore dismissal types. The objective is to gain insights that can enhance understanding of player strategies and game dynamics. 
     - **Data Collection**:
          The dataset was obtained from Kaggle, which included information about player name, dismissal, runs, balls, minutes played, 4s, 6s, strike_rate etc.    
     - **Data Cleaning**:
