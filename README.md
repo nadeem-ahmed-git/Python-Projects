@@ -1,31 +1,4 @@
-# [PORTFOLIO PROJECTS](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main)
-
-## 1. **Data Analyst Internship (@Psyliq)**
-  - **[SQL - Diabetes Prediction](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction)**
-
-    In the Disbetes Prediction assessment, I worked on a diabetes prediction project where I utilized SQL queries in MySQL. I successfully retrieved 
-    patient IDs, calculated the average BMI of patients, and listed them in descending order of blood glucose levels. I also determined the number of patients with heart disease
-    and grouped them by their smoking history. Furthermore, I updated the smoking history of patients who are older than 50 to “Ex-smoker” and inserted a new patient into the database. Lastly, I 
-    found patients who have hypertension but not diabetes using the EXCEPT operator and more.
-    
-  ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/SQL%20-%20Diabetes%20Prediction/sql.png?raw=true) 
-    
-  - **[Excel - Employee Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis)**
-    
-    In the Employee Data Analysis assessment, I was tasked with a series of Employee Data Analytics Assessment Questions. I utilized Excel to perform various tasks such as creating pivot tables to summarize the total number of employees in each department, applying conditional formatting to highlight employees with a “Performance Score” below 3, and performing advanced analysis using charts and pivot tables. I also calculated metrics including headcount, departmental budgets, training costs projections, and profitability. Developed a dashboard that provides an overview of key HR metrics, including headcount, performance, and training costs, using charts and pivot tables. This experience allowed me to enhance my Excel 
-skills and gain hands-on experience in data analytics.
-
-    ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20-%20Employee%20Data%20Analysis/HR%20analytics%20dashboard.png?raw=true)
-
-  - **[Excel and Power BI - HR Data Analysis](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/tree/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20%26%20Power%20BI%20-%20HR%20Data%20Analysis)**
-
-    In the HR Data Analysis assessment, I tackled a series of HR Data Analytics Assessment Questions. I leveraged Excel and Power BI to execute tasks such as establishing relationship between tables, applying conditional formatting, and conducting advanced analysis using charts and pivot tables, calculating the rolling 3-month average of Monthly Income for each employee, created a hierarchy in Power BI that allows users to drill down from Department to Job Role to further narrow their analysis, set up parameterized queries in Power BI to allow users to filter data based
-on the Distance from Home column. This experience enabled me to enhance my Excel and Power BI skills and gain practical experience in data analytics.
-
-  ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Data%20Analyst%20-%20Internship%20(Psyliq)/Excel%20&%20Power%20BI%20-%20HR%20Data%20Analysis/data%20model.png?raw=true)
-
-
-## 2. **Python Projects**
+# . **Python Projects**
   - ### [Project 1 - Hotel Bookings](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/Hotel%20Bookings.ipynb)
     
       ![](https://github.com/Nade-coder/Nadeem-s_Data_Analyst_Portfolio/blob/main/Python%20Projects/Project%201%20-%20Hotel%20Bookings/monthly%20reservation%20status.png?raw=true)
